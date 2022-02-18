@@ -1,0 +1,53 @@
+{
+  "coord": {
+    "lon": -83.0458,
+    "lat": 42.3314
+  },
+  "weather": [
+    {
+      "id": 701,
+      "main": "Mist",
+      "description": "mist",
+      "icon": "50d"
+    },
+    {
+      "id": 500,
+      "main": "Rain",
+      "description": "light rain",
+      "icon": "10d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 31.91,
+    "feels_like": 22.39,
+    "temp_min": 28.87,
+    "temp_max": 34.61,
+    "pressure": 1011,
+    "humidity": 94
+  },
+  "visibility": 2414,
+  "wind": {
+    "speed": 12.66,
+    "deg": 360,
+    "gust": 26.46
+  },
+  "rain": {
+    "1h": 0.27
+  },
+  "clouds": {
+    "all": 100
+  },
+  "dt": 1645113524,
+  "sys": {
+    "type": 2,
+    "id": 2006979,
+    "country": "US",
+    "sunrise": 1645100760,
+    "sunset": 1645139199
+  },
+  "timezone": -18000,
+  "id": 4990729,
+  "name": "Detroit",
+  "cod": 200
+}
